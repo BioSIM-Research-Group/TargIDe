@@ -1,5 +1,8 @@
 # TargIDe
 
+![Figure6_FINAL_1000DPI](https://user-images.githubusercontent.com/11854631/206155238-e177600b-fad8-4719-a8b2-42c5c702c406.jpg)
+
+
 How to use TargIDe:
 
 1.	Download the database file of P. aeruginosa molecules with anti-biofilm activity from https://github.com/BioSIM-Research-Group/TargIDe.
