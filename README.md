@@ -2,6 +2,7 @@
 
 TargIDe: a machine-learning workflow for Target IDentification of molecules with anti-biofilm activity against Pseudomonas aeruginosa 
 
+<p align="center">
 ![JBI_MLBIOFILMS_Graphical_Abstract_06122022_small](https://user-images.githubusercontent.com/11854631/206167865-0d4c0ac1-f6c5-4eff-896c-605e495a5252.jpg)
 
 
@@ -16,3 +17,5 @@ How to use TargIDe:
 
 
 ![Figure6_FINAL_1000DPI](https://user-images.githubusercontent.com/11854631/206155426-a5240353-2625-4898-9f2d-6dfa9d6011fe.jpg)
+
+<\p>
