@@ -14,5 +14,6 @@ How to use TargIDe:
 6.	Results can be visualized using the ROC analysis and Confusion Matrix.
 
 
-![Figure6_FINAL_1000DPI](https://user-images.githubusercontent.com/11854631/206155426-a5240353-2625-4898-9f2d-6dfa9d6011fe.jpg)
+![Figure6_FINAL_1000DPI_small](https://user-images.githubusercontent.com/11854631/206169868-1cac446a-51e9-40eb-89a9-50e44f5a7555.jpg)
+
 
