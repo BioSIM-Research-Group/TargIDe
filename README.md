@@ -2,6 +2,9 @@
 
 TargIDe: a machine-learning workflow for Target IDentification of molecules with anti-biofilm activity against Pseudomonas aeruginosa 
 
+![JBI_MLBIOFILMS_Graphical_Abstract_06122022_small](https://user-images.githubusercontent.com/11854631/206167865-0d4c0ac1-f6c5-4eff-896c-605e495a5252.jpg)
+
+
 How to use TargIDe:
 
 1.	Download the database file of P. aeruginosa molecules with anti-biofilm activity from https://github.com/BioSIM-Research-Group/TargIDe.
