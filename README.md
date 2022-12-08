@@ -7,7 +7,7 @@ TargIDe: a machine-learning workflow for Target IDentification of molecules with
 How to use TargIDe:
 
 1.	Download the database file of P. aeruginosa molecules with anti-biofilm activity from https://github.com/BioSIM-Research-Group/TargIDe/blob/main/TargIDe/Database/TargIDe_Database_Descriptors_Padel_06122022.xlsx .
-2.	Download the automatic workflow implementation file (Orange software *.ows file) from https://github.com/BioSIM-Research-Group/TargIDe/TargIDe/OrangeWorkflow/ .
+2.	Download the automatic workflow implementation file (Orange software *.ows file) from https://github.com/BioSIM-Research-Group/TargIDe/blob/main/TargIDe/OrangeWorkflow/TargIDe_Workflow_06122022.ows .
 3.	Load the workflow file in Orange.
 4.	Import the database file using the “import csv file” widget.
 5.	The calculations will run automatically.
