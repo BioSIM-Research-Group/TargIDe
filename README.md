@@ -13,6 +13,7 @@ How to use TargIDe:
 5.	The calculations will run automatically.
 6.	Results can be visualized using the ROC analysis and Confusion Matrix.
 
+The Orange data mining software can be obtained at: https://orangedatamining.com/.
 
 ![Figure6_FINAL_1000DPI_small](https://user-images.githubusercontent.com/11854631/206169868-1cac446a-51e9-40eb-89a9-50e44f5a7555.jpg)
 
